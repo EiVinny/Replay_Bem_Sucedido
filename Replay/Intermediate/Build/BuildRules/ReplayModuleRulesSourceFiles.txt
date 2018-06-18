@@ -1,0 +1,3 @@
+D:\Vinicius Oliveira\Git\Replay\Replay\Source\Replay\Replay.Build.cs
+D:\Vinicius Oliveira\Git\Replay\Replay\Source\Replay.Target.cs
+D:\Vinicius Oliveira\Git\Replay\Replay\Source\ReplayEditor.Target.cs
