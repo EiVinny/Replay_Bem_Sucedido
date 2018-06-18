@@ -24,9 +24,9 @@
 /wd4838
 /w44668
 /I "D:\Epic Games\UE_4.19\Engine\Source"
-/I "D:\Vinicius Oliveira\Git\Replay\Replay\Source"
-/I "D:\Vinicius Oliveira\Git\Replay\Replay\Intermediate\Build\Win64\UE4Editor\Inc\Replay"
-/I "D:\Vinicius Oliveira\Git\Replay\Replay\Source\Replay"
+/I "D:\Vinicius Oliveira\Git\Replay_Bem_Sucedido\Replay\Source"
+/I "D:\Vinicius Oliveira\Git\Replay_Bem_Sucedido\Replay\Intermediate\Build\Win64\UE4Editor\Inc\Replay"
+/I "D:\Vinicius Oliveira\Git\Replay_Bem_Sucedido\Replay\Source\Replay"
 /I "D:\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "D:\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "D:\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -364,9 +364,9 @@
 /FI"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Vinicius Oliveira\Git\Replay\Replay\Source\Replay\Teste.cpp"
-/FI"D:\Vinicius Oliveira\Git\Replay\Replay\Intermediate\Build\Win64\UE4Editor\Development\Replay\Definitions.Replay.h"
-/Fo"D:\Vinicius Oliveira\Git\Replay\Replay\Intermediate\Build\Win64\UE4Editor\Development\Replay\Teste.cpp.obj"
+"D:\Vinicius Oliveira\Git\Replay_Bem_Sucedido\Replay\Source\Replay\Teste.cpp"
+/FI"D:\Vinicius Oliveira\Git\Replay_Bem_Sucedido\Replay\Intermediate\Build\Win64\UE4Editor\Development\Replay\Definitions.Replay.h"
+/Fo"D:\Vinicius Oliveira\Git\Replay_Bem_Sucedido\Replay\Intermediate\Build\Win64\UE4Editor\Development\Replay\Teste.cpp.obj"
 /TP
 /GR-
 /W4

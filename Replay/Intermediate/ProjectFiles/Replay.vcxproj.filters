@@ -1,85 +1,88 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <ItemGroup>
-    <None Include="..\..\Replay.uproject" />
-    <Filter Include="Source">
-      <UniqueIdentifier>{01BABD43-5DA8-40C3-A7C6-92F637911D34}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Source\Replay.Target.cs">
-      <Filter>Source</Filter>
-    </None>
-    <None Include="..\..\Source\ReplayEditor.Target.cs">
-      <Filter>Source</Filter>
-    </None>
-    <Filter Include="Config">
-      <UniqueIdentifier>{FB5EF1A0-C1ED-414F-92BD-3C80FBC0246C}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEngine.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultGame.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultInput.ini">
-      <Filter>Config</Filter>
-    </None>
-    <Filter Include="Source\Replay">
-      <UniqueIdentifier>{DA4DC986-1AFE-46C6-9599-9252AC907B26}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\Replay\MyGameInstance.cpp">
-      <Filter>Source\Replay</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Replay\MyGameInstance.h">
-      <Filter>Source\Replay</Filter>
-    </ClInclude>
-    <None Include="..\..\Source\Replay\Replay.Build.cs">
-      <Filter>Source\Replay</Filter>
-    </None>
-    <ClCompile Include="..\..\Source\Replay\Replay.cpp">
-      <Filter>Source\Replay</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Replay\Replay.h">
-      <Filter>Source\Replay</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Replay\ReplayCharacter.cpp">
-      <Filter>Source\Replay</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Replay\ReplayCharacter.h">
-      <Filter>Source\Replay</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Replay\ReplayGameMode.cpp">
-      <Filter>Source\Replay</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Replay\ReplayGameMode.h">
-      <Filter>Source\Replay</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Replay\ReplayHUD.cpp">
-      <Filter>Source\Replay</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Replay\ReplayHUD.h">
-      <Filter>Source\Replay</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Replay\ReplayProjectile.cpp">
-      <Filter>Source\Replay</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Replay\ReplayProjectile.h">
-      <Filter>Source\Replay</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\Replay\Teste.h">
-      <Filter>Source\Replay</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\Replay\Teste.cpp">
-      <Filter>Source\Replay</Filter>
-    </ClCompile>
-  </ItemGroup>
+	<ItemGroup>
+		<None Include="..\..\Replay.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{B6705C6E-EAF2-4A3B-B0E6-4D15595CBDED}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Replay.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ReplayEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{0DD8ED8F-2152-4A42-83C9-887C62D86592}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Replay">
+			<UniqueIdentifier>{A8036D6F-1D88-48F9-8BFE-325AB2191A6E}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Replay\MyGameInstance.cpp">
+			<Filter>Source\Replay</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay\MyGameInstance.h">
+			<Filter>Source\Replay</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay\PC_ReplaySpectator.cpp">
+			<Filter>Source\Replay</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay\PC_ReplaySpectator.h">
+			<Filter>Source\Replay</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Replay\Replay.Build.cs">
+			<Filter>Source\Replay</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Replay\Replay.cpp">
+			<Filter>Source\Replay</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay\Replay.h">
+			<Filter>Source\Replay</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay\ReplayCharacter.cpp">
+			<Filter>Source\Replay</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay\ReplayCharacter.h">
+			<Filter>Source\Replay</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay\ReplayGameMode.cpp">
+			<Filter>Source\Replay</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay\ReplayGameMode.h">
+			<Filter>Source\Replay</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay\ReplayHUD.cpp">
+			<Filter>Source\Replay</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay\ReplayHUD.h">
+			<Filter>Source\Replay</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay\ReplayProjectile.cpp">
+			<Filter>Source\Replay</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay\ReplayProjectile.h">
+			<Filter>Source\Replay</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Replay\Teste.cpp">
+			<Filter>Source\Replay</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Replay\Teste.h">
+			<Filter>Source\Replay</Filter>
+		</ClInclude >
+	</ItemGroup>
 </Project>
