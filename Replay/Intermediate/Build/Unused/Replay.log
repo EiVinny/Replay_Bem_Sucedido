@@ -1,7 +1,8 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: não é possível importar "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" novamente. Esse item já foi importado em "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". É provável que esse seja um erro de criação do build. Essa importação subsequente será ignorada. [D:\Vinicius Oliveira\Git\Replay_Bem_Sucedido\Replay\Intermediate\ProjectFiles\UE4.vcxproj]
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.props(31,3): warning MSB4011: não é possível importar "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Makefile.props" novamente. Esse item já foi importado em "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.cpp.props (31,3)". É provável que esse seja um erro de criação do build. Essa importação subsequente será ignorada. [D:\Vinicius Oliveira\Git\Replay_Bem_Sucedido\Replay\Intermediate\ProjectFiles\Replay.vcxproj]
   Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading ReplayEditor (modules to compile have changed)
   Compiling game modules for hot reload
   Target is up to date
   Deploying ReplayEditor Win64 Development...
-  Total build time: 0,66 seconds (NoActionsToExecute executor: 0,00 seconds)
+  Total build time: 3,18 seconds (NoActionsToExecute executor: 0,00 seconds)
